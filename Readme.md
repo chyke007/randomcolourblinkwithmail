@@ -34,4 +34,7 @@ var pir = new Gpio(27, "in", "both");
   - It normally connects to Analog Input (ex. on Arduino); however you can use it with Digital as well if you connect a 10K resistor between VCC & Signal  
 
 
+- Led 
+  - I used a RGB Led
+
  
