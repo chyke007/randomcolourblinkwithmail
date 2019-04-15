@@ -23,7 +23,7 @@ module.exports.sendEmail = function() {
     to: "yourmail@yourmail.com",
     subject: "[Pi Bot] Intruder Detected",
     html:
-      "<b>Mr/Mrs/Miss. Your namw </b>,<br/><br/>Someone is trying to steal your raspberry pi 3. <br/><br/> At : " +
+      "<b>Mr/Mrs/Miss. Your name </b>,<br/><br/>Someone is trying to steal your raspberry pi 3. <br/><br/> At : " +
       Date() +
       " <br/> Love,<br/><i>Pi Bot</i>"
   };
